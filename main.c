@@ -2,6 +2,13 @@
 
 int main()
 {
+  return 65;
 printf("hello world\n");
-return 0;
+
+}
+
+
+void makeproblems()
+{
+  printf("%d,%d,%d");
 }
